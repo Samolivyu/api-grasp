@@ -158,7 +158,6 @@ paths:
             example:
               accessKey: fef75cfe7d69457b97bda9e61db2d2d9
               gameId: '17'
-              token: 9ab25e0dfc5c326a 
               token: 9ab25e0dfc5c326a8247db04694bfa74fc4873e9508fae49a06e4432729f8749
               currency: USD
               language: en
