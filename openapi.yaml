@@ -158,7 +158,7 @@ paths:
             example:
               accessKey: fef75cfe7d69457b97bda9e61db2d2d9
               gameId: '17'
-              token: 9ab25e0dfc5c326a ```yaml
+              token: 9ab25e0dfc5c326a 
               token: 9ab25e0dfc5c326a8247db04694bfa74fc4873e9508fae49a06e4432729f8749
               currency: USD
               language: en
@@ -326,7 +326,7 @@ paths:
                     page_size: 20
                     requested_at: '2025-04-24T08:36:30Z'
                     started_at: ''
-                    user_id: '578439999 ```yaml
+                    user_id: '578439999 
                     user_id: '5784399999805'
                   timestamp: 1745483790
         '404':
@@ -469,7 +469,7 @@ paths:
                             game_image_url: https://storage.googleapis.com/tada-cdn-asia/All-In-One/production/img/jiliPlusPlayer/games/njchRAOXoPgzNXoFvUpKkSG6tmCwUSOGaiDKkOJW.png
                             game_name: mines
                             game_url: https://g11.ibibegames.com
-                          - assigned_at: '2025-04-16T08:17:51.775115Z ```yaml
+                          - assigned_at: '2025-04-16T08:17:51.775115Z 
                             client_id: 186
                             client_name: Naya M
                             game_id: '28'
@@ -527,7 +527,7 @@ paths:
                             game_url: https://demogames.ibibe.africa/jungle/speedsevens/
                           - assigned_at: '2025-04-16T08:11:26.244678Z'
                             client_id: 186
-                            client_name: Naya ```yaml
+                            client_name: Naya 
                             game_id: '109'
                             game_image_url: https://storage.googleapis.com/tada-cdn-asia/All-In-One/production/img/jiliPlusPlayer/games/6zWBAFBet8nRceBKU7AfDKq1ktzzerzuhHS1W4dV.png
                             game_name: Fortune gems
@@ -585,7 +585,7 @@ paths:
                             client_id: 186
                             client_name: Naya M
                             game_id: '12'
-                            game_image_url: https://storage.googleapis.com/tada-cdn-asia/All-In-One/production/img/jiliPlusPlayer/games/yXCfYwfBRA4vu5txsj4jCLytixIT2Ubfg ```yaml
+                            game_image_url: https://storage.googleapis.com/tada-cdn-asia/All-In-One/production/img/jiliPlusPlayer/games/yXCfYwfBRA4vu5txsj4jCLytixIT2Ubfg 
 openapi: 3.0.0
 info:
   title: Gaming API Collection
@@ -747,7 +747,7 @@ paths:
               accessKey: fef75cfe7d69457b97bda9e61db2d2d9
               gameId: '17'
               token: 9ab25e0dfc5c326a8247db04694bfa74fc4873e9508fae49a06e4432729f8749
-              currency: ```yaml
+              currency: 
               currency: USD
               language: en
               mode: '1'
@@ -923,7 +923,7 @@ paths:
               content:
                 text/plain:
                   schema:
-                    type: string ```yaml
+                    type: string 
                     type: string
                   example: nginx/1.26.0 (Ubuntu)
             Date:
@@ -1061,7 +1061,7 @@ paths:
                             client_id: 186
                             client_name: Naya M
                             game_id: '28'
-                            game_image_url: https://storage.googleapis.com/tada-cdn-asia/All-In-One/production/img ```yaml
+                            game_image_url: https://storage.googleapis.com/tada-cdn-asia/All-In-One/production/img 
                             game_image_url: https://storage.googleapis.com/tada-cdn-asia/All-In-One/production/img/jiliPlusPlayer/games/gADodOcT8pa5ZpBaO99BvqiRDWrxb5tOg6CVvlNL.png
                             game_name: Crazy Fafafa
                             game_url: https://g14.ibibegames.com
